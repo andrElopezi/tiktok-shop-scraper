@@ -1,0 +1,26 @@
+{
+  "name": "tiktok-shop-scraper",
+  "version": "1.0.0",
+  "description": "Apify actor and Node.js tool to scrape product data from TikTok Shop category or product pages.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/scraper.test.js"
+  },
+  "keywords": [
+    "tiktok",
+    "tiktok-shop",
+    "scraper",
+    "apify",
+    "crawler",
+    "automation"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {
+    "apify": "^3.1.11",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  }
+}
