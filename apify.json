@@ -1,0 +1,8 @@
+{
+  "name": "tiktok-shop-scraper",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "env": {
+    "APIFY_MEMORY_MBYTES": "2048"
+  }
+}
