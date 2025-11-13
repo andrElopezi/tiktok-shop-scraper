@@ -1,0 +1,11 @@
+{
+  "offline_mode": true,
+  "base_url": "https://www.tiktok.com",
+  "timeout_seconds": 15,
+  "max_retries": 3,
+  "retry_backoff_seconds": 0.5,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "default_region": "US",
+  "default_sort": "RELEVANCE",
+  "log_level": "INFO"
+}
