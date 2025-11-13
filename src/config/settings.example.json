@@ -1,0 +1,8 @@
+{
+  "user_agent": "Mozilla/5.0 (compatible; TikTokShopScraper/1.0; +https://bitbash.dev)",
+  "request_timeout": 20,
+  "export": {
+    "default_format": "json",
+    "max_products": 1000
+  }
+}
